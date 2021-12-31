@@ -61,5 +61,5 @@ app.get('/' , (req, res) => {
 
 
 app.listen(port, () => {
-    console.log('Running mortor cykel sorum' , port)
+    console.log('Running Mortor cykel sorum' , port)
 })
